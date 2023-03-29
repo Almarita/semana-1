@@ -1,0 +1,31 @@
+https://github.com/Almarita
+
+# Hey!👐¡Hola!
+## My name is Irene, I live in **Berlin** and I'm learning Web Development as an **autodidact**. _Programming is so much **_fun_**_!
+### 🔭 Resources I'm currently studying with:
+* FreeCodeCamp
+* Undefined Shell Academy
+* EDX CS50
+### 🌱 I’m currently learning:
+* JavaScript
+* React
+### ✨ Some facts about me:
+* My pronouns are she/they.
+* I'm obsessed with Wittgenstein's philosophy.
+* My mothertongues are Spanish and Catalan and I can also speak English and German!
+# Tarea 1 clase 1
+
+### 5 comandos de la terminal:
+| Comando     | Descripción |
+| ----------- | ----------- |
+| whoami      | Muestra el nombre del usuario actual.       |
+| mkdir   | Crea una nueva carpeta dado un nombre para esa carpeta.         |
+| cp      |   Comando que nos permite copiar archivos dada una ruta inicial y una ruta
+final.        |
+| rm   |   Permite eliminar un archivo dada una ruta.    |
+| touch   |     Crea un archivo nuevo dada una ruta y/o nombre.    |
+### 2 comandos alias:
+| Alias     | Comando del que es alias | Descripción |
+| ----------- | ----------- |   ----------- | 
+| getpass      | alias getpass="openssl rand -base64 20"     |   	Genera una contraseña random de 20 caracteres|
+| zshconfig   | code ~/.zshrc | Abre VSCode con el archivo de configuracion de zsh  |
